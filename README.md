@@ -9,3 +9,5 @@ DS tough Questions
 
 [Trapping Rain Water Problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
 
+[Add 1 to the number in LL(Different Method)](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#)
+
