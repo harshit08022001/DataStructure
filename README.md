@@ -11,3 +11,5 @@ DS tough Questions
 
 [Add 1 to the number in LL(Different Method)](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#)
 
+[Insert at bottom of stack](https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack)
+
