@@ -13,3 +13,5 @@ DS tough Questions
 
 [Insert at bottom of stack](https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack)
 
+[Check tree is balanced or not](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1#)
+
