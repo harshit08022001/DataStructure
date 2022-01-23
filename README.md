@@ -15,3 +15,4 @@ DS tough Questions
 
 [Check tree is balanced or not](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1#)
 
+[Inorder Successor and Presedor of BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
