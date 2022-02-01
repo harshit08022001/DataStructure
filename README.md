@@ -18,3 +18,5 @@ DS tough Questions
 [Inorder Successor and Presedor of BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
 [Length of longest Valid substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1#)
+
+[Majority Element  Moore majority Algo](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1#)
