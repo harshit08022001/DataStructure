@@ -20,3 +20,5 @@ DS tough Questions
 [Length of longest Valid substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1#)
 
 [Majority Element  Moore majority Algo](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1#)
+
+[Max Sum with no consecutive](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1#)
