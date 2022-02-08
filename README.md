@@ -22,3 +22,5 @@ DS tough Questions
 [Majority Element  Moore majority Algo](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1#)
 
 [Max Sum with no consecutive](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1#)
+
+[Cycle in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/#)
