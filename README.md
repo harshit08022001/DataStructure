@@ -1,6 +1,8 @@
 # DataStructure
 DS tough Questions
 
+[Cousins of given nodes](https://practice.geeksforgeeks.org/problems/cousins-of-a-given-node/1)
+
 [Median in  a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1#)
 
 [Minimize the maximum difference between height](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
