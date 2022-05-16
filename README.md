@@ -26,3 +26,5 @@ DS tough Questions
 [Max Sum with no consecutive](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1#)
 
 [Cycle in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/#)
+
+[Bridges in graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1#)
