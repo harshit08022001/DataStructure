@@ -28,3 +28,5 @@ DS tough Questions
 [Cycle in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/#)
 
 [Bridges in graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1#)
+
+[Articulation point](https://practice.geeksforgeeks.org/problems/articulation-point-1/0/#)
